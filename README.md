@@ -4,15 +4,15 @@ This repository contains all assignments, tasks, and project work completed duri
 
 ## Repository Structure
 
-Celebal-Summer-Internship-2026
-│
-├── Celebal_Task_1
-│
-├── Celebal_Task_2
-│
-├── Celebal_Task_3
-│
-└── ...
+Celebal-Summer-Internship-2026<br>
+│<br>
+├── Celebal_Task_1<br>
+│<br>
+├── Celebal_Task_2<br>
+│<br>
+├── Celebal_Task_3<br>
+│<br>
+└── ...<br>
 
 
 Each task is maintained in a separate directory containing source files, notebooks, outputs, documentation, and any supporting resources required for the assignment.
@@ -69,13 +69,12 @@ Celebal_Task_1/
 
 ## Internship Details
 
-**Organization:** Celebal Technologies
+**Organization:** Celebal Technologies<br>
 **Program:** Celebal Summer Internship 2026
 
 ---
 
 ## Author
 
-**Aditya Kumar**
-
-B.Tech Computer Science & Engineering (Cloud Computing & Blockchain)
+**Aditya Kumar**<br>
+<sup>B.Tech Computer Science & Engineering (Cloud Computing & Blockchain)</sup>
