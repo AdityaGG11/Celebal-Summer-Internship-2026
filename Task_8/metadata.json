@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Order Analytics System",
+  "description": "A local Python and SQL e-commerce order analytics pipeline featuring data generation, cleaning, SQLite storage, analytics queries, CLI reporting, and edge-case testing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

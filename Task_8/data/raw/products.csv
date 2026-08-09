@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD-0001,Sweaters Model-854,Clothing,Sweaters,103.83
+PROD-0002,Sneakers Model-311,Clothing,Sneakers,118.46
+PROD-0003,Dresses Model-259,Clothing,Dresses,390.57
+PROD-0004,Smartphones Model-792,Electronics,Smartphones,478.11
+PROD-0005,   biography model-106   ,Books,Biography,383.3
+PROD-0006,Smartwatches Model-480,Electronics,Smartwatches,312.23
+PROD-0007,Biography Model-989,Books,Biography,140.99
+PROD-0008,Sneakers Model-507,Clothing,Sneakers,114.94
+PROD-0009,T-Shirts Model-638,Clothing,T-Shirts,400.64
+PROD-0010,Biography Model-133,Books,Biography,253.73
+PROD-0011,Science Journal Model-894,Books,Science Journal,91.53
+PROD-0012,Smartwatches Model-423,Electronics,Smartwatches,346.16
+PROD-0013,Monitors Model-488,Electronics,Monitors,292.6
+PROD-0014,Vacuum Cleaner Model-727,Home,Vacuum Cleaner,431.61
+PROD-0015,Sneakers Model-342,Clothing,Sneakers,138.36
+PROD-0016,Vacuum Cleaner Model-288,Home,Vacuum Cleaner,251.89
+PROD-0017,Socks Model-817,Clothing,Socks,377.34
+PROD-0018,Cookware Set Model-510,Home,Cookware Set,143.42
+PROD-0019,Jackets Model-689,Clothing,Jackets,344.58
+PROD-0020,Keyboards Model-923,Electronics,Keyboards,121.72
+PROD-0021,History Anthology Model-300,Books,History Anthology,77.19
+PROD-0022,Sweaters Model-925,Clothing,Sweaters,9.82
+PROD-0023,History Anthology Model-237,Books,History Anthology,497.8
+PROD-0024,Cookware Set Model-598,Home,Cookware Set,153.52
+PROD-0025,Tablets Model-201,Electronics,Tablets,346.82
+PROD-0026,Monitors Model-933,Electronics,Monitors,130.87
+PROD-0027,Smartwatches Model-862,Electronics,Smartwatches,170.65
+PROD-0028,Vacuum Cleaner Model-673,Home,Vacuum Cleaner,280.96
+PROD-0029,Vacuum Cleaner Model-120,Home,Vacuum Cleaner,208.82
+PROD-0030,Cookware Set Model-795,Home,Cookware Set,481.74
+PROD-0031,Jackets Model-899,Clothing,Jackets,145.88
+PROD-0032,Bed Sheets Model-622,Home,Bed Sheets,246.31
+PROD-0033,Fiction Novel Model-490,Books,Fiction Novel,308.76
+PROD-0034,Science Journal Model-248,Books,Science Journal,434.79
+PROD-0035,Desk Lamp Model-746,Home,Desk Lamp,308.09
+PROD-0036,Fiction Novel Model-181,Books,Fiction Novel,85.19
+PROD-0037,Dresses Model-424,Clothing,Dresses,328.24
+PROD-0038,Air Purifier Model-760,Home,Air Purifier,200.75
+PROD-0039,   cookbook model-865   ,Books,Cookbook,295.53
+PROD-0040,History Anthology Model-271,Books,History Anthology,96.02
+PROD-0041,Laptops Model-845,Electronics,Laptops,121.14
+PROD-0042,Bed Sheets Model-817,Home,Bed Sheets,376.12
+PROD-0043,Jackets Model-506,Clothing,Jackets,55.99
+PROD-0044,Smartwatches Model-661,Electronics,Smartwatches,31.64
+PROD-0045,Biography Model-883,Books,Biography,498.03
+PROD-0046,Keyboards Model-732,Electronics,Keyboards,81.86
+PROD-0047,Cookbook Model-334,Books,Cookbook,127.46
+PROD-0048,dESK lAMP mODEL-741,Home,Desk Lamp,67.57
+PROD-0049,T-Shirts Model-135,Clothing,T-Shirts,333.46
+PROD-0050,Cookware Set Model-587,Home,Cookware Set,236.26
+PROD-0051,Air Purifier Model-555,Home,Air Purifier,71.88
+PROD-0052,Sweaters Model-746,Clothing,Sweaters,375.71
+PROD-0053,Biography Model-755,Books,Biography,321.57
+PROD-0054,Vacuum Cleaner Model-593,Home,Vacuum Cleaner,272.14
+PROD-0055,Smartwatches Model-415,Electronics,Smartwatches,186.06
+PROD-0056,Blender Model-410,Home,Blender,10.23
+PROD-0057,Dresses Model-393,Clothing,Dresses,237.25
+PROD-0058,Smartwatches Model-873,Electronics,Smartwatches,241.15
+PROD-0059,Tablets Model-917,Electronics,Tablets,150.0
+PROD-0060,T-Shirts Model-661,Clothing,T-Shirts,189.95
+PROD-0061,Biography Model-547,Books,Biography,200.4
+PROD-0062,Socks Model-948,Clothing,Socks,192.29
+PROD-0063,Coffee Maker Model-532,Home,Coffee Maker,314.53
+PROD-0064,Vacuum Cleaner Model-764,Home,Vacuum Cleaner,372.75
+PROD-0065,Desk Lamp Model-292,Home,Desk Lamp,427.47
+PROD-0066,Jackets Model-396,Clothing,Jackets,59.63
+PROD-0067,Biography Model-563,Books,Biography,139.71
+PROD-0068,Tech Guide Model-428,Books,Tech Guide,14.6
+PROD-0069,Headphones Model-290,Electronics,Headphones,486.3
+PROD-0070,Vacuum Cleaner Model-228,Home,Vacuum Cleaner,359.02
+PROD-0071,Monitors Model-192,Electronics,Monitors,79.59
+PROD-0072,Tech Guide Model-450,Books,Tech Guide,213.02
+PROD-0073,Cookbook Model-574,Books,Cookbook,349.98
+PROD-0074,Cameras Model-182,Electronics,Cameras,422.56
+PROD-0075,T-Shirts Model-372,Clothing,T-Shirts,388.95
+PROD-0076,Smartwatches Model-285,Electronics,Smartwatches,100.14
+PROD-0077,Cookware Set Model-490,Home,Cookware Set,414.98
+PROD-0078,Monitors Model-494,Electronics,Monitors,386.76
+PROD-0079,Tech Guide Model-855,Books,Tech Guide,497.3
+PROD-0080,Sweaters Model-852,Clothing,Sweaters,386.64
+PROD-0081,Sweaters Model-498,Clothing,Sweaters,342.31
+PROD-0082,Vacuum Cleaner Model-262,Home,Vacuum Cleaner,316.44
+PROD-0083,Smartphones Model-359,Electronics,Smartphones,243.21
+PROD-0084,Blender Model-469,Home,Blender,444.32
+PROD-0085,Jeans Model-341,Clothing,Jeans,318.29
+PROD-0086,Coffee Maker Model-271,Home,Coffee Maker,398.22
+PROD-0087,Tablets Model-908,Electronics,Tablets,125.33
+PROD-0088,Smartwatches Model-804,Electronics,Smartwatches,300.13
+PROD-0089,Cookware Set Model-191,Home,Cookware Set,128.12
+PROD-0090,Fiction Novel Model-802,Books,Fiction Novel,311.23
+PROD-0091,Headphones Model-464,Electronics,Headphones,324.06
+PROD-0092,lAPTOPS mODEL-599,Electronics,Laptops,120.17
+PROD-0093,Cookware Set Model-549,Home,Cookware Set,367.93
+PROD-0094,tABLETS mODEL-466,Electronics,Tablets,363.58
+PROD-0095,Coffee Maker Model-596,Home,Coffee Maker,354.78
+PROD-0096,Air Purifier Model-813,Home,Air Purifier,247.6
+PROD-0097,Dresses Model-431,Clothing,Dresses,367.54
+PROD-0098,Cookware Set Model-951,Home,Cookware Set,301.35
+PROD-0099,Jeans Model-643,Clothing,Jeans,81.74
+PROD-0100,Cookware Set Model-369,Home,Cookware Set,273.09
+PROD-0101,Fiction Novel Model-894,Books,Fiction Novel,320.82
+PROD-0102,Science Journal Model-289,Books,Science Journal,442.05
+PROD-0103,Cookware Set Model-735,Home,Cookware Set,123.2
+PROD-0104,Tablets Model-294,Electronics,Tablets,264.41
+PROD-0105,Biography Model-257,Books,Biography,308.45
+PROD-0106,Desk Lamp Model-756,Home,Desk Lamp,164.4
+PROD-0107,Smartphones Model-144,Electronics,Smartphones,418.42
+PROD-0108,Jackets Model-994,Clothing,Jackets,20.48
+PROD-0109,Smartwatches Model-296,Electronics,Smartwatches,53.88
+PROD-0110,Science Journal Model-601,Books,Science Journal,265.28
+PROD-0111,Coffee Maker Model-475,Home,Coffee Maker,114.26
+PROD-0112,hEADPHONES mODEL-313,Electronics,Headphones,329.6
+PROD-0113,Smartwatches Model-920,Electronics,Smartwatches,321.26
+PROD-0114,Air Purifier Model-861,Home,Air Purifier,469.43
+PROD-0115,Cookbook Model-913,Books,Cookbook,355.67
+PROD-0116,Air Purifier Model-141,Home,Air Purifier,368.48
+PROD-0117,Coffee Maker Model-321,Home,Coffee Maker,480.49
+PROD-0118,Smartphones Model-842,Electronics,Smartphones,119.35
+PROD-0119,Tech Guide Model-297,Books,Tech Guide,265.47
+PROD-0120,Jackets Model-671,Clothing,Jackets,375.85
+PROD-0121,Science Journal Model-208,Books,Science Journal,384.31
+PROD-0122,Bed Sheets Model-569,Home,Bed Sheets,352.76
+PROD-0123,Fiction Novel Model-270,Books,Fiction Novel,397.27
+PROD-0124,Biography Model-445,Books,Biography,330.48
+PROD-0125,Cookbook Model-422,Books,Cookbook,277.29
+PROD-0126,Cookware Set Model-480,Home,Cookware Set,209.11
+PROD-0127,Science Journal Model-431,Books,Science Journal,306.16
+PROD-0128,sOCKS mODEL-884,Clothing,Socks,277.37
+PROD-0129,Vacuum Cleaner Model-563,Home,Vacuum Cleaner,226.51
+PROD-0130,Fiction Novel Model-843,Books,Fiction Novel,22.16
+PROD-0131,Air Purifier Model-116,Home,Air Purifier,261.22
+PROD-0132,Coffee Maker Model-407,Home,Coffee Maker,492.28
+PROD-0133,Dresses Model-122,Clothing,Dresses,386.9
+PROD-0134,Air Purifier Model-623,Home,Air Purifier,280.38
+PROD-0135,   jeans model-138   ,Clothing,Jeans,232.88
+PROD-0136,Jackets Model-371,Clothing,Jackets,186.71
+PROD-0137,Hoodies Model-362,Clothing,Hoodies,406.48
+PROD-0138,tABLETS mODEL-682,Electronics,Tablets,459.35
+PROD-0139,Cameras Model-911,Electronics,Cameras,243.85
+PROD-0140,Science Journal Model-819,Books,Science Journal,290.24
+PROD-0141,Keyboards Model-138,Electronics,Keyboards,366.74
+PROD-0142,Fiction Novel Model-898,Books,Fiction Novel,32.68
+PROD-0143,Vacuum Cleaner Model-936,Home,Vacuum Cleaner,219.98
+PROD-0144,Monitors Model-865,Electronics,Monitors,328.13
+PROD-0145,Tablets Model-155,Electronics,Tablets,155.87
+PROD-0146,Cameras Model-652,Electronics,Cameras,284.63
+PROD-0147,Air Purifier Model-814,Home,Air Purifier,114.29
+PROD-0148,tABLETS mODEL-556,Electronics,Tablets,377.66
+PROD-0149,Monitors Model-542,Electronics,Monitors,148.44
+PROD-0150,Tech Guide Model-235,Books,Tech Guide,171.4
+PROD-0151,Biography Model-863,Books,Biography,29.41
+PROD-0152,Cookbook Model-187,Books,Cookbook,202.27
+PROD-0153,Science Journal Model-233,Books,Science Journal,382.21
+PROD-0154,Biography Model-302,Books,Biography,246.49
+PROD-0155,Hoodies Model-348,Clothing,Hoodies,40.46
+PROD-0156,Cookbook Model-801,Books,Cookbook,462.45
+PROD-0157,Smartphones Model-787,Electronics,Smartphones,209.72
+PROD-0158,Vacuum Cleaner Model-295,Home,Vacuum Cleaner,163.77
+PROD-0159,Keyboards Model-273,Electronics,Keyboards,493.89
+PROD-0160,Biography Model-249,Books,Biography,223.03
+PROD-0161,   hoodies model-801   ,Clothing,Hoodies,190.04
+PROD-0162,Smartphones Model-857,Electronics,Smartphones,32.0
+PROD-0163,Sneakers Model-114,Clothing,Sneakers,174.92
+PROD-0164,Keyboards Model-560,Electronics,Keyboards,238.24
+PROD-0165,Blender Model-857,Home,Blender,271.31
+PROD-0166,Sneakers Model-661,Clothing,Sneakers,244.1
+PROD-0167,T-Shirts Model-485,Clothing,T-Shirts,293.59
+PROD-0168,Keyboards Model-274,Electronics,Keyboards,34.75
+PROD-0169,Sneakers Model-154,Clothing,Sneakers,235.16
+PROD-0170,Smartphones Model-497,Electronics,Smartphones,331.88
+PROD-0171,Cookware Set Model-210,Home,Cookware Set,14.44
+PROD-0172,Tech Guide Model-489,Books,Tech Guide,256.73
+PROD-0173,Cameras Model-596,Electronics,Cameras,434.05
+PROD-0174,Laptops Model-303,Electronics,Laptops,252.82
+PROD-0175,Biography Model-829,Books,Biography,15.64
+PROD-0176,sNEAKERS mODEL-441,Clothing,Sneakers,247.52
+PROD-0177,T-Shirts Model-455,Clothing,T-Shirts,343.73
+PROD-0178,Bed Sheets Model-409,Home,Bed Sheets,121.92
+PROD-0179,Cookware Set Model-163,Home,Cookware Set,314.77
+PROD-0180,Fiction Novel Model-668,Books,Fiction Novel,474.81
+PROD-0181,   jackets model-449   ,Clothing,Jackets,449.1
+PROD-0182,jEANS mODEL-847,Clothing,Jeans,194.19
+PROD-0183,Socks Model-346,Clothing,Socks,288.58
+PROD-0184,Cookbook Model-719,Books,Cookbook,168.0
+PROD-0185,Hoodies Model-768,Clothing,Hoodies,73.6
+PROD-0186,Jackets Model-416,Clothing,Jackets,345.82
+PROD-0187,Socks Model-888,Clothing,Socks,76.85
+PROD-0188,Dresses Model-169,Clothing,Dresses,280.88
+PROD-0189,Laptops Model-425,Electronics,Laptops,420.56
+PROD-0190,T-Shirts Model-883,Clothing,T-Shirts,162.75
+PROD-0191,History Anthology Model-410,Books,History Anthology,224.29
+PROD-0192,Blender Model-897,Home,Blender,98.03
+PROD-0193,Jackets Model-126,Clothing,Jackets,382.41
+PROD-0194,Air Purifier Model-680,Home,Air Purifier,308.12
+PROD-0195,Hoodies Model-803,Clothing,Hoodies,17.91
+PROD-0196,Smartwatches Model-237,Electronics,Smartwatches,253.65
+PROD-0197,Science Journal Model-765,Books,Science Journal,190.11
+PROD-0198,History Anthology Model-585,Books,History Anthology,73.07
+PROD-0199,Hoodies Model-133,Clothing,Hoodies,207.25
+PROD-0200,Keyboards Model-522,Electronics,Keyboards,115.16
+PROD-0201,Hoodies Model-167,Clothing,Hoodies,92.65
+PROD-0202,Biography Model-601,Books,Biography,345.49
+PROD-0203,Tech Guide Model-537,Books,Tech Guide,205.41
+PROD-0204,Tablets Model-837,Electronics,Tablets,159.88
+PROD-0205,   smartphones model-562   ,Electronics,Smartphones,231.17
+PROD-0206,Monitors Model-631,Electronics,Monitors,271.25
+PROD-0207,Tablets Model-628,Electronics,Tablets,383.75
+PROD-0208,Monitors Model-398,Electronics,Monitors,222.58
+PROD-0209,Cookware Set Model-947,Home,Cookware Set,146.53
+PROD-0210,Socks Model-401,Clothing,Socks,308.5
+PROD-0211,Laptops Model-574,Electronics,Laptops,415.8
+PROD-0212,Fiction Novel Model-839,Books,Fiction Novel,252.83
+PROD-0213,Jackets Model-502,Clothing,Jackets,209.71
+PROD-0214,Fiction Novel Model-283,Books,Fiction Novel,229.57
+PROD-0215,Sweaters Model-192,Clothing,Sweaters,128.79
+PROD-0216,Jeans Model-193,Clothing,Jeans,61.51
+PROD-0217,Science Journal Model-471,Books,Science Journal,47.23
+PROD-0218,Science Journal Model-910,Books,Science Journal,487.72
+PROD-0219,Socks Model-663,Clothing,Socks,193.4
+PROD-0220,Dresses Model-679,Clothing,Dresses,436.3
+PROD-0221,Jackets Model-989,Clothing,Jackets,76.58
+PROD-0222,Tablets Model-415,Electronics,Tablets,158.21
+PROD-0223,Cookbook Model-741,Books,Cookbook,94.44
+PROD-0224,Hoodies Model-103,Clothing,Hoodies,313.17
+PROD-0225,Coffee Maker Model-569,Home,Coffee Maker,251.33
+PROD-0226,Biography Model-926,Books,Biography,7.85
+PROD-0227,Tech Guide Model-322,Books,Tech Guide,296.49
+PROD-0228,History Anthology Model-519,Books,History Anthology,223.73
+PROD-0229,Monitors Model-660,Electronics,Monitors,142.67
+PROD-0230,T-Shirts Model-289,Clothing,T-Shirts,78.39
+PROD-0231,Coffee Maker Model-248,Home,Coffee Maker,427.65
+PROD-0232,Vacuum Cleaner Model-189,Home,Vacuum Cleaner,29.27
+PROD-0233,Tech Guide Model-265,Books,Tech Guide,337.68
+PROD-0234,Sweaters Model-867,Clothing,Sweaters,291.59
+PROD-0235,Smartphones Model-886,Electronics,Smartphones,153.15
+PROD-0236,Desk Lamp Model-939,Home,Desk Lamp,38.5
+PROD-0237,Biography Model-166,Books,Biography,149.95
+PROD-0238,Jeans Model-811,Clothing,Jeans,430.41
+PROD-0239,Air Purifier Model-523,Home,Air Purifier,264.7
+PROD-0240,T-Shirts Model-211,Clothing,T-Shirts,287.83
+PROD-0241,Smartwatches Model-841,Electronics,Smartwatches,345.88
+PROD-0242,Desk Lamp Model-723,Home,Desk Lamp,424.66
+PROD-0243,Air Purifier Model-688,Home,Air Purifier,497.54
+PROD-0244,bLENDER mODEL-729,Home,Blender,283.5
+PROD-0245,History Anthology Model-927,Books,History Anthology,94.05
+PROD-0246,Sneakers Model-298,Clothing,Sneakers,5.78
+PROD-0247,Smartwatches Model-740,Electronics,Smartwatches,399.38
+PROD-0248,Socks Model-523,Clothing,Socks,27.52
+PROD-0249,Air Purifier Model-925,Home,Air Purifier,320.56
+PROD-0250,Monitors Model-806,Electronics,Monitors,144.41
+PROD-0251,Keyboards Model-407,Electronics,Keyboards,255.81
+PROD-0252,Cookware Set Model-106,Home,Cookware Set,61.35
+PROD-0253,Vacuum Cleaner Model-505,Home,Vacuum Cleaner,363.58
+PROD-0254,Laptops Model-298,Electronics,Laptops,168.6
+PROD-0255,Bed Sheets Model-590,Home,Bed Sheets,458.5
+PROD-0256,Laptops Model-593,Electronics,Laptops,81.92
+PROD-0257,Biography Model-443,Books,Biography,233.92
+PROD-0258,Science Journal Model-157,Books,Science Journal,418.38
+PROD-0259,Air Purifier Model-842,Home,Air Purifier,340.71
+PROD-0260,Monitors Model-691,Electronics,Monitors,344.32
+PROD-0261,Coffee Maker Model-252,Home,Coffee Maker,143.83
+PROD-0262,Cameras Model-484,Electronics,Cameras,315.12
+PROD-0263,Socks Model-291,Clothing,Socks,299.62
+PROD-0264,Bed Sheets Model-978,Home,Bed Sheets,160.68
+PROD-0265,   keyboards model-523   ,Electronics,Keyboards,47.96
+PROD-0266,Dresses Model-562,Clothing,Dresses,415.58
+PROD-0267,Blender Model-637,Home,Blender,154.65
+PROD-0268,Cameras Model-903,Electronics,Cameras,23.51
+PROD-0269,Jeans Model-554,Clothing,Jeans,255.47
+PROD-0270,Biography Model-257,Books,Biography,99.15
+PROD-0271,Science Journal Model-994,Books,Science Journal,264.2
+PROD-0272,Blender Model-887,Home,Blender,436.54
+PROD-0273,Hoodies Model-841,Clothing,Hoodies,23.09
+PROD-0274,Science Journal Model-985,Books,Science Journal,263.56
+PROD-0275,   keyboards model-145   ,Electronics,Keyboards,345.09
+PROD-0276,Cameras Model-578,Electronics,Cameras,445.15
+PROD-0277,Keyboards Model-123,Electronics,Keyboards,290.89
+PROD-0278,Bed Sheets Model-314,Home,Bed Sheets,163.84
+PROD-0279,Sneakers Model-383,Clothing,Sneakers,268.48
+PROD-0280,Science Journal Model-220,Books,Science Journal,139.96
+PROD-0281,Sneakers Model-217,Clothing,Sneakers,12.55
+PROD-0282,Monitors Model-655,Electronics,Monitors,178.41
+PROD-0283,Vacuum Cleaner Model-244,Home,Vacuum Cleaner,471.92
+PROD-0284,aIR pURIFIER mODEL-350,Home,Air Purifier,89.78
+PROD-0285,Air Purifier Model-446,Home,Air Purifier,272.59
+PROD-0286,Laptops Model-129,Electronics,Laptops,238.01
+PROD-0287,Smartphones Model-492,Electronics,Smartphones,31.63
+PROD-0288,History Anthology Model-283,Books,History Anthology,353.82
+PROD-0289,Biography Model-464,Books,Biography,159.66
+PROD-0290,Jeans Model-873,Clothing,Jeans,383.39
+PROD-0291,Jeans Model-932,Clothing,Jeans,402.16
+PROD-0292,Fiction Novel Model-566,Books,Fiction Novel,158.64
+PROD-0293,History Anthology Model-337,Books,History Anthology,473.99
+PROD-0294,sNEAKERS mODEL-472,Clothing,Sneakers,199.08
+PROD-0295,Cookware Set Model-981,Home,Cookware Set,441.79
+PROD-0296,History Anthology Model-130,Books,History Anthology,37.36
+PROD-0297,Cameras Model-590,Electronics,Cameras,233.31
+PROD-0298,Sneakers Model-886,Clothing,Sneakers,177.56
+PROD-0299,Jeans Model-515,Clothing,Jeans,409.69
+PROD-0300,Cameras Model-669,Electronics,Cameras,326.48
+PROD-0301,Air Purifier Model-572,Home,Air Purifier,203.4
+PROD-0302,Tech Guide Model-735,Books,Tech Guide,125.63
+PROD-0303,Sweaters Model-493,Clothing,Sweaters,37.7
+PROD-0304,Socks Model-903,Clothing,Socks,490.2
+PROD-0305,Air Purifier Model-810,Home,Air Purifier,121.9
+PROD-0306,Smartwatches Model-217,Electronics,Smartwatches,298.12
+PROD-0307,Cookbook Model-668,Books,Cookbook,53.34
+PROD-0308,Tech Guide Model-415,Books,Tech Guide,478.16
+PROD-0309,Smartphones Model-801,Electronics,Smartphones,407.96
+PROD-0310,Cookbook Model-606,Books,Cookbook,324.27
+PROD-0311,Smartphones Model-322,Electronics,Smartphones,409.43
+PROD-0312,Laptops Model-776,Electronics,Laptops,78.86
+PROD-0313,Desk Lamp Model-730,Home,Desk Lamp,291.08
+PROD-0314,Hoodies Model-797,Clothing,Hoodies,439.33
+PROD-0315,Air Purifier Model-913,Home,Air Purifier,457.04
+PROD-0316,Desk Lamp Model-835,Home,Desk Lamp,491.38
+PROD-0317,Coffee Maker Model-696,Home,Coffee Maker,9.02
+PROD-0318,Tech Guide Model-972,Books,Tech Guide,150.62
+PROD-0319,Air Purifier Model-154,Home,Air Purifier,5.42
+PROD-0320,Coffee Maker Model-981,Home,Coffee Maker,144.69
+PROD-0321,Monitors Model-542,Electronics,Monitors,352.6
+PROD-0322,Science Journal Model-425,Books,Science Journal,357.33
+PROD-0323,History Anthology Model-545,Books,History Anthology,274.83
+PROD-0324,Sweaters Model-242,Clothing,Sweaters,98.17
+PROD-0325,Cookbook Model-960,Books,Cookbook,211.53
+PROD-0326,Cookware Set Model-786,Home,Cookware Set,67.15
+PROD-0327,Smartphones Model-763,Electronics,Smartphones,12.78
+PROD-0328,Science Journal Model-547,Books,Science Journal,487.61
+PROD-0329,Jeans Model-240,Clothing,Jeans,322.91
+PROD-0330,History Anthology Model-907,Books,History Anthology,349.22
+PROD-0331,Biography Model-284,Books,Biography,229.93
+PROD-0332,Biography Model-939,Books,Biography,227.77
+PROD-0333,Blender Model-290,Home,Blender,215.26
+PROD-0334,Smartwatches Model-967,Electronics,Smartwatches,366.8
+PROD-0335,Desk Lamp Model-659,Home,Desk Lamp,290.29
+PROD-0336,Headphones Model-681,Electronics,Headphones,244.22
+PROD-0337,Coffee Maker Model-694,Home,Coffee Maker,243.36
+PROD-0338,Laptops Model-847,Electronics,Laptops,366.99
+PROD-0339,Desk Lamp Model-629,Home,Desk Lamp,43.73
+PROD-0340,Monitors Model-583,Electronics,Monitors,317.18
+PROD-0341,Keyboards Model-727,Electronics,Keyboards,31.12
+PROD-0342,Air Purifier Model-897,Home,Air Purifier,10.34
+PROD-0343,Biography Model-580,Books,Biography,289.11
+PROD-0344,Desk Lamp Model-461,Home,Desk Lamp,480.49
+PROD-0345,   vacuum cleaner model-271   ,Home,Vacuum Cleaner,22.49
+PROD-0346,Bed Sheets Model-903,Home,Bed Sheets,284.03
+PROD-0347,Smartwatches Model-692,Electronics,Smartwatches,88.69
+PROD-0348,Keyboards Model-928,Electronics,Keyboards,370.0
+PROD-0349,Keyboards Model-596,Electronics,Keyboards,45.84
+PROD-0350,kEYBOARDS mODEL-358,Electronics,Keyboards,70.61
+PROD-0351,Vacuum Cleaner Model-978,Home,Vacuum Cleaner,132.19
+PROD-0352,Laptops Model-705,Electronics,Laptops,370.79
+PROD-0353,Cookbook Model-927,Books,Cookbook,91.82
+PROD-0354,Sweaters Model-285,Clothing,Sweaters,400.69
+PROD-0355,Cameras Model-186,Electronics,Cameras,483.84
+PROD-0356,Sweaters Model-870,Clothing,Sweaters,496.82
+PROD-0357,Tech Guide Model-776,Books,Tech Guide,222.89
+PROD-0358,Hoodies Model-691,Clothing,Hoodies,368.51
+PROD-0359,   coffee maker model-757   ,Home,Coffee Maker,135.88
+PROD-0360,Headphones Model-271,Electronics,Headphones,234.69
+PROD-0361,Cookbook Model-587,Books,Cookbook,374.34
+PROD-0362,Socks Model-799,Clothing,Socks,354.28
+PROD-0363,Cookbook Model-248,Books,Cookbook,267.57
+PROD-0364,Fiction Novel Model-395,Books,Fiction Novel,463.98
+PROD-0365,History Anthology Model-794,Books,History Anthology,161.27
+PROD-0366,Smartphones Model-644,Electronics,Smartphones,320.52
+PROD-0367,Biography Model-767,Books,Biography,429.89
+PROD-0368,Vacuum Cleaner Model-373,Home,Vacuum Cleaner,402.15
+PROD-0369,Bed Sheets Model-698,Home,Bed Sheets,198.62
+PROD-0370,Hoodies Model-632,Clothing,Hoodies,172.02
+PROD-0371,Dresses Model-660,Clothing,Dresses,10.24
+PROD-0372,Smartphones Model-112,Electronics,Smartphones,208.57
+PROD-0373,Smartwatches Model-459,Electronics,Smartwatches,113.61
+PROD-0374,Vacuum Cleaner Model-297,Home,Vacuum Cleaner,21.85
+PROD-0375,Headphones Model-708,Electronics,Headphones,330.02
+PROD-0376,Jeans Model-825,Clothing,Jeans,479.11
+PROD-0377,Laptops Model-484,Electronics,Laptops,329.92
+PROD-0378,Jeans Model-812,Clothing,Jeans,96.21
+PROD-0379,Desk Lamp Model-776,Home,Desk Lamp,468.41
+PROD-0380,Cookbook Model-887,Books,Cookbook,216.36
+PROD-0381,Vacuum Cleaner Model-265,Home,Vacuum Cleaner,391.46
+PROD-0382,Cookware Set Model-163,Home,Cookware Set,194.49
+PROD-0383,   coffee maker model-364   ,Home,Coffee Maker,478.02
+PROD-0384,bLENDER mODEL-551,Home,Blender,39.35
+PROD-0385,Socks Model-282,Clothing,Socks,324.51
+PROD-0386,Laptops Model-653,Electronics,Laptops,385.51
+PROD-0387,Jeans Model-552,Clothing,Jeans,359.12
+PROD-0388,Headphones Model-174,Electronics,Headphones,39.85
+PROD-0389,Cookware Set Model-556,Home,Cookware Set,14.29
+PROD-0390,Tech Guide Model-768,Books,Tech Guide,321.97
+PROD-0391,Tablets Model-372,Electronics,Tablets,80.05
+PROD-0392,Desk Lamp Model-688,Home,Desk Lamp,6.83
+PROD-0393,History Anthology Model-546,Books,History Anthology,204.94
+PROD-0394,Monitors Model-103,Electronics,Monitors,195.29
+PROD-0395,Fiction Novel Model-680,Books,Fiction Novel,269.98
+PROD-0396,Vacuum Cleaner Model-798,Home,Vacuum Cleaner,154.9
+PROD-0397,Smartphones Model-474,Electronics,Smartphones,269.64
+PROD-0398,Coffee Maker Model-961,Home,Coffee Maker,232.52
+PROD-0399,Bed Sheets Model-307,Home,Bed Sheets,92.43
+PROD-0400,Tablets Model-776,Electronics,Tablets,99.55
+PROD-0401,Fiction Novel Model-745,Books,Fiction Novel,345.98
+PROD-0402,Fiction Novel Model-747,Books,Fiction Novel,221.8
+PROD-0403,Jackets Model-136,Clothing,Jackets,100.58
+PROD-0404,Sweaters Model-498,Clothing,Sweaters,36.18
+PROD-0405,Desk Lamp Model-646,Home,Desk Lamp,482.65
+PROD-0406,Fiction Novel Model-137,Books,Fiction Novel,172.95
+PROD-0407,Cookware Set Model-838,Home,Cookware Set,26.19
+PROD-0408,Monitors Model-926,Electronics,Monitors,328.66
+PROD-0409,Science Journal Model-991,Books,Science Journal,437.76
+PROD-0410,Hoodies Model-173,Clothing,Hoodies,23.25
+PROD-0411,Sweaters Model-769,Clothing,Sweaters,14.44
+PROD-0412,Monitors Model-818,Electronics,Monitors,326.15
+PROD-0413,Laptops Model-747,Electronics,Laptops,29.73
+PROD-0414,Cookware Set Model-912,Home,Cookware Set,53.16
+PROD-0415,Jeans Model-937,Clothing,Jeans,409.65
+PROD-0416,Smartwatches Model-709,Electronics,Smartwatches,400.59
+PROD-0417,Jeans Model-923,Clothing,Jeans,105.31
+PROD-0418,Cookware Set Model-955,Home,Cookware Set,491.19
+PROD-0419,Cookbook Model-223,Books,Cookbook,488.05
+PROD-0420,Dresses Model-956,Clothing,Dresses,482.52
+PROD-0421,   t-shirts model-707   ,Clothing,T-Shirts,90.86
+PROD-0422,Smartphones Model-380,Electronics,Smartphones,74.91
+PROD-0423,Tech Guide Model-813,Books,Tech Guide,188.11
+PROD-0424,Sweaters Model-349,Clothing,Sweaters,463.21
+PROD-0425,Laptops Model-202,Electronics,Laptops,396.57
+PROD-0426,Tech Guide Model-116,Books,Tech Guide,440.42
+PROD-0427,   headphones model-107   ,Electronics,Headphones,93.81
+PROD-0428,Keyboards Model-526,Electronics,Keyboards,348.28
+PROD-0429,Science Journal Model-229,Books,Science Journal,107.05
+PROD-0430,Air Purifier Model-561,Home,Air Purifier,208.96
+PROD-0431,T-Shirts Model-710,Clothing,T-Shirts,94.1
+PROD-0432,Biography Model-190,Books,Biography,315.46
+PROD-0433,Vacuum Cleaner Model-528,Home,Vacuum Cleaner,7.26
+PROD-0434,Hoodies Model-220,Clothing,Hoodies,493.37
+PROD-0435,Cameras Model-983,Electronics,Cameras,381.76
+PROD-0436,Sweaters Model-888,Clothing,Sweaters,315.1
+PROD-0437,Sneakers Model-154,Clothing,Sneakers,100.89
+PROD-0438,Sweaters Model-609,Clothing,Sweaters,92.28
+PROD-0439,Headphones Model-760,Electronics,Headphones,185.28
+PROD-0440,Socks Model-357,Clothing,Socks,170.48
+PROD-0441,Fiction Novel Model-206,Books,Fiction Novel,371.51
+PROD-0442,Jackets Model-904,Clothing,Jackets,19.39
+PROD-0443,Smartphones Model-340,Electronics,Smartphones,362.09
+PROD-0444,Desk Lamp Model-303,Home,Desk Lamp,374.81
+PROD-0445,Blender Model-897,Home,Blender,59.52
+PROD-0446,Jeans Model-342,Clothing,Jeans,370.19
+PROD-0447,Socks Model-325,Clothing,Socks,41.4
+PROD-0448,Fiction Novel Model-546,Books,Fiction Novel,76.75
+PROD-0449,Tech Guide Model-496,Books,Tech Guide,189.88
+PROD-0450,Science Journal Model-298,Books,Science Journal,317.85
+PROD-0451,Blender Model-443,Home,Blender,67.97
+PROD-0452,Keyboards Model-239,Electronics,Keyboards,60.0
+PROD-0453,History Anthology Model-528,Books,History Anthology,89.74
+PROD-0454,Blender Model-402,Home,Blender,303.8
+PROD-0455,Hoodies Model-188,Clothing,Hoodies,208.79
+PROD-0456,Tech Guide Model-705,Books,Tech Guide,239.38
+PROD-0457,Cookbook Model-114,Books,Cookbook,366.36
+PROD-0458,hOODIES mODEL-435,Clothing,Hoodies,219.95
+PROD-0459,Jackets Model-687,Clothing,Jackets,449.63
+PROD-0460,Fiction Novel Model-141,Books,Fiction Novel,495.68
+PROD-0461,Tablets Model-643,Electronics,Tablets,200.19
+PROD-0462,Smartwatches Model-607,Electronics,Smartwatches,124.05
+PROD-0463,Tablets Model-323,Electronics,Tablets,70.69
+PROD-0464,Blender Model-763,Home,Blender,499.48
+PROD-0465,Smartwatches Model-785,Electronics,Smartwatches,155.89
+PROD-0466,Biography Model-865,Books,Biography,293.91
+PROD-0467,History Anthology Model-890,Books,History Anthology,73.62
+PROD-0468,Tech Guide Model-908,Books,Tech Guide,436.42
+PROD-0469,Science Journal Model-748,Books,Science Journal,5.68
+PROD-0470,Tablets Model-807,Electronics,Tablets,169.79
+PROD-0471,Keyboards Model-536,Electronics,Keyboards,377.68
+PROD-0472,Jeans Model-735,Clothing,Jeans,441.02
+PROD-0473,Cameras Model-152,Electronics,Cameras,59.93
+PROD-0474,Desk Lamp Model-733,Home,Desk Lamp,25.23
+PROD-0475,Blender Model-763,Home,Blender,281.6
+PROD-0476,Monitors Model-241,Electronics,Monitors,490.72
+PROD-0477,   jeans model-764   ,Clothing,Jeans,241.85
+PROD-0478,Hoodies Model-428,Clothing,Hoodies,179.59
+PROD-0479,Air Purifier Model-796,Home,Air Purifier,214.35
+PROD-0480,Smartphones Model-481,Electronics,Smartphones,175.89
+PROD-0481,Biography Model-639,Books,Biography,415.63
+PROD-0482,Science Journal Model-644,Books,Science Journal,340.76
+PROD-0483,Desk Lamp Model-735,Home,Desk Lamp,187.23
+PROD-0484,Monitors Model-568,Electronics,Monitors,48.22
+PROD-0485,   tech guide model-395   ,Books,Tech Guide,479.34
+PROD-0486,Smartphones Model-268,Electronics,Smartphones,141.59
+PROD-0487,Sweaters Model-254,Clothing,Sweaters,438.12
+PROD-0488,Keyboards Model-526,Electronics,Keyboards,484.94
+PROD-0489,Sweaters Model-455,Clothing,Sweaters,212.96
+PROD-0490,Keyboards Model-293,Electronics,Keyboards,36.16
+PROD-0491,Dresses Model-521,Clothing,Dresses,291.46
+PROD-0492,Desk Lamp Model-707,Home,Desk Lamp,334.6
+PROD-0493,History Anthology Model-411,Books,History Anthology,285.79
+PROD-0494,Blender Model-908,Home,Blender,133.7
+PROD-0495,Cookbook Model-395,Books,Cookbook,386.03
+PROD-0496,Laptops Model-461,Electronics,Laptops,145.77
+PROD-0497,Jackets Model-828,Clothing,Jackets,269.98
+PROD-0498,Jackets Model-959,Clothing,Jackets,355.52
+PROD-0499,Jackets Model-343,Clothing,Jackets,62.87
+PROD-0500,Air Purifier Model-229,Home,Air Purifier,223.24
