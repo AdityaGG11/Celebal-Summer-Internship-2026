@@ -1,0 +1,14 @@
+{
+  "name": "late-transaction-revenue-correction",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Databricks PySpark and Delta Lake Medallion Pipeline for Late Transaction Handling and Selective Historical Revenue Correction",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "build": "node -e 'console.log(\"Build complete\")'",
+    "test": "python3 -m unittest discover tests -v && python3 tests/local_pipeline_test.py",
+    "lint": "python3 -m py_compile src/*.py tests/*.py"
+  }
+}

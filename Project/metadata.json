@@ -1,0 +1,6 @@
+{
+  "name": "Late Transaction Revenue Correction",
+  "description": "Databricks PySpark and Delta Lake Medallion Pipeline for Late Transaction Handling and Selective Historical Revenue Correction",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
